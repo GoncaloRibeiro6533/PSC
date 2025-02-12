@@ -1,0 +1,224 @@
+ID, Price, Description, Category
+1, 549.000000, An apple mobile which is nothing like apple, smartphones
+2, 899.000000, SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ..., smartphones
+3, 1249.000000, Samsung's new variant which goes beyond Galaxy to the Universe, smartphones
+4, 280.000000, OPPO F19 is officially announced on April 2021., smartphones
+5, 499.000000, Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK., smartphones
+6, 1749.000000, MacBook Pro 2021 with mini-LED display may launch between September, November, laptops
+7, 1499.000000, Samsung Galaxy Book S (2020) Laptop With Intel Lakefield Chip, 8GB of RAM Launched, laptops
+8, 1499.000000, Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen., laptops
+9, 1099.000000, Infinix Inbook X1 Ci3 10th 8GB 256GB 14 Win10 Grey – 1 Year Warranty, laptops
+10, 1099.000000, HP Pavilion 15-DK1056WM Gaming Laptop 10th Gen Core i5, 8GB, 256GB SSD, GTX 1650 4GB, Windows 10, laptops
+11, 13.000000, Mega Discount, Impression of Acqua Di Gio by GiorgioArmani concentrated attar perfume Oil, fragrances
+12, 40.000000, Royal_Mirage Sport Brown Perfume for Men & Women - 120ml, fragrances
+13, 13.000000, Product details of Best Fog Scent Xpressio Perfume 100ml For Men cool long lasting perfumes for Men, fragrances
+14, 120.000000, Original Al Munakh® by Mahal Al Musk | Our Impression of Climate | 6ml Non-Alcoholic Concentrated Perfume Oil, fragrances
+15, 30.000000, Genuine  Al-Rehab spray perfume from UAE/Saudi Arabia/Yemen High Quality, fragrances
+16, 19.000000, L'OrÃ©al Paris introduces Hyaluron Expert Replumping Serum formulated with 1.5% Hyaluronic Acid, skincare
+17, 12.000000, Tea tree oil contains a number of compounds, including terpinen-4-ol, that have been shown to kill certain bacteria,, skincare
+18, 40.000000, Dermive Oil Free Moisturizer with SPF 20 is specifically formulated with ceramides, hyaluronic acid & sunscreen., skincare
+19, 46.000000, Product name: rorec collagen hyaluronic acid white face serum riceNet weight: 15 m, skincare
+20, 70.000000, Fair & Clear is Pakistan's only pure Freckle cream which helpsfade Freckles, Darkspots and pigments. Mercury level is 0%, so there are no side effects., skincare
+21, 20.000000, Fine quality Branded Product Keep in a cool and dry place, groceries
+22, 14.000000, Product details of Bake Parlor Big Elbow Macaroni - 400 gm, groceries
+23, 14.000000, Specifications of Orange Essence Food Flavour For Cakes and Baking Food Item, groceries
+24, 46.000000, original fauji cereal muesli 250gm box pack original fauji cereals muesli fruit nuts flakes breakfast cereal break fast faujicereals cerels cerel foji fouji, groceries
+25, 70.000000, Dry Rose Flower Powder Gulab Powder 50 Gram • Treats Wounds, groceries
+26, 41.000000, Boho Decor Plant Hanger For Home Wall Decoration Macrame Wall Hanging Shelf, home-decoration
+27, 51.000000, Package Include 6 Birds with Adhesive Tape Shape: 3D Shaped Wooden Birds Material: Wooden MDF, Laminated 3.5mm, home-decoration
+28, 20.000000, 3D led lamp sticker Wall sticker 3d wall art light on/off button  cell operated (included), home-decoration
+29, 60.000000, Handcraft Chinese style art luxury palace hotel villa mansion home decor ceramic vase with brass fruit plate, home-decoration
+30, 30.000000, Attractive DesignMetallic materialFour key hooksReliable & DurablePremium Quality, home-decoration
+---------------------------------------------------------
+ID, Name
+1, Terry Medhurst
+2, Sheldon Quigley
+3, Terrill Hills
+4, Miles Cummerata
+5, Mavis Schultz
+6, Alison Reichert
+7, Oleta Abbott
+8, Ewell Mueller
+9, Demetrius Corkery
+10, Eleanora Price
+11, Marcel Jones
+12, Assunta Rath
+13, Trace Douglas
+14, Enoch Lynch
+15, Jeanne Halvorson
+16, Trycia Fadel
+17, Bradford Prohaska
+18, Arely Skiles
+19, Gust Purdy
+20, Lenna Renner
+21, Doyle Ernser
+22, Tressa Weber
+23, Felicity O'Reilly
+24, Jocelyn Schuster
+25, Edwina Ernser
+26, Griffin Braun
+27, Piper Schowalter
+28, Kody Terry
+29, Macy Greenfelder
+30, Maurine Stracke
+---------------------------------------------------------
+UserId, n_products
+97, 5
+products_id, quantity
+59, 3
+88, 2
+18, 2
+95, 1
+39, 2
+UserId, n_products
+30, 5
+products_id, quantity
+96, 2
+91, 3
+9, 1
+16, 1
+54, 3
+UserId, n_products
+63, 5
+products_id, quantity
+37, 2
+80, 3
+68, 3
+81, 1
+90, 1
+UserId, n_products
+83, 5
+products_id, quantity
+36, 1
+54, 1
+11, 3
+47, 2
+64, 3
+UserId, n_products
+58, 5
+products_id, quantity
+23, 3
+91, 1
+45, 2
+84, 1
+70, 3
+UserId, n_products
+26, 5
+products_id, quantity
+53, 3
+61, 2
+92, 1
+11, 3
+37, 3
+UserId, n_products
+56, 5
+products_id, quantity
+61, 1
+80, 2
+99, 3
+14, 1
+48, 3
+UserId, n_products
+1, 5
+products_id, quantity
+45, 1
+83, 3
+96, 1
+21, 3
+2, 1
+UserId, n_products
+91, 5
+products_id, quantity
+74, 3
+10, 3
+19, 2
+53, 1
+13, 1
+UserId, n_products
+13, 5
+products_id, quantity
+75, 1
+39, 1
+3, 3
+7, 1
+93, 3
+UserId, n_products
+66, 5
+products_id, quantity
+71, 3
+25, 2
+65, 3
+58, 1
+53, 3
+UserId, n_products
+52, 5
+products_id, quantity
+32, 2
+41, 3
+69, 1
+98, 3
+67, 2
+UserId, n_products
+79, 5
+products_id, quantity
+81, 1
+42, 2
+29, 3
+64, 2
+54, 1
+UserId, n_products
+76, 5
+products_id, quantity
+64, 2
+76, 2
+30, 2
+88, 1
+94, 2
+UserId, n_products
+47, 5
+products_id, quantity
+4, 1
+100, 3
+1, 2
+48, 3
+94, 3
+UserId, n_products
+15, 5
+products_id, quantity
+3, 3
+50, 3
+67, 2
+86, 1
+12, 1
+UserId, n_products
+56, 5
+products_id, quantity
+12, 3
+25, 1
+24, 2
+90, 1
+97, 1
+UserId, n_products
+42, 5
+products_id, quantity
+23, 2
+25, 2
+9, 2
+78, 2
+63, 1
+UserId, n_products
+5, 5
+products_id, quantity
+43, 3
+77, 3
+50, 3
+31, 2
+75, 3
+UserId, n_products
+75, 5
+products_id, quantity
+66, 3
+59, 1
+29, 1
+32, 1
+46, 2

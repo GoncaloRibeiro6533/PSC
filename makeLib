@@ -1,0 +1,16 @@
+
+
+
+
+
+
+libget_json_data.so: get_json_data.o
+	gcc -shared -o libget_json_data.so get_json_data.o
+
+get_json_data.o: get_json_data.c
+	gcc -c -fpic get_json_data.c
+
+
+get_json_data.o: get_json_data.c get_json_data.h
+	gcc -c get_json_data.c -o get_json_data.o -l jansson -l curl -Wall
+	
